@@ -1,0 +1,39 @@
+ .loginbtn{
+  background-color: #66FCF1 !important;
+  text-decoration: none !important; 
+ }
+
+ .addbtn{
+  background-color:  #1f2833 !important;
+  color: #66FCF1 !important;
+ }
+
+.nav-link {
+  text-decoration: none !important; 
+  color: white !important;
+}
+
+.nav-link-black {
+  text-decoration: none !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.link-blue {
+  /* text-decoration: none !important; */
+  color: #1e5057 !important;
+  font-weight: 700 !important;
+}
+
+.forgot-link {
+  font-weight: bold;
+  text-decoration: none;
+  color: #1976d2 !important;
+}
+
+.footer-link {
+  color: rgba(0, 0, 0, 0.6) !important;
+}
+
+.layout-color {
+  background-color: #1f2833 !important ;
+}
